@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: "Laâroua"
+    given-names: "Said"
+title: "Pantheon+ Redshift-Frame Analysis"
+version: "1.0"
+date-released: "2025-11-10"
+doi: ""
+repository-code: "https://github.com/saidlaaroua/pantheon-redshift-frame-analysis"
+license: "CC-BY-4.0"
+abstract: >
+  Analysis code and processed data accompanying the paper
+  "Full-sky covariance-weighted redshift-frame consistency in the Pantheon+ Type Ia supernova sample"
+  (submitted to Physical Review D, 2025).
+preferred-citation:
+  type: software
+  title: "Pantheon+ Redshift-Frame Analysis"
+  authors:
+    - family-names: "Laâroua"
+      given-names: "Said"
+  year: 2025
+  url: "https://github.com/saidlaaroua/pantheon-redshift-frame-analysis"
